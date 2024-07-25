@@ -1,3 +1,5 @@
 This is sample 1 
 
 check git revert
+
+this is stash lecture. change in file 1.
